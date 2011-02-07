@@ -1,5 +1,5 @@
 
-<project name="Swing" default="jar" basedir=".">
+<project name="Swing console" default="jar" basedir=".">
 	<description>
   	Web Services build file
 	</description>
